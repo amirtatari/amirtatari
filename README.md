@@ -1,5 +1,5 @@
 
-# About ME👋
+# 👋 About
 I am a Software Engineer building high-performance, cross-platform systems.
 I develop and deploy inference pipeline for AI on edge devices, design GUI/HMI applications, and work extensively with embedded Linux. 
 
