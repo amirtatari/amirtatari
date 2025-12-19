@@ -2,10 +2,16 @@
 # About ME👋
 I am a Software Engineer building high-performance, cross-platform systems.
 I develop and deploy inference pipeline for AI on edge devices, design GUI/HMI applications, and work extensively with embedded Linux. 
-My focus is on:
+
+My main focus is on:
 1. Performance-critical software
 2. Object-Oriented and Data-Oriented designs
 3. Poduction-ready solutions for industrial use cases
+
+Im interested in:
+1. High Performance Computing
+2. Robotics and Computer Vision
+3. Reinforcement Learning
 
 ---
             
@@ -34,7 +40,6 @@ My focus is on:
 Object detection & semantic segmentaion model benchmark application for edge devices.
 
 - Stack: C++20, OpenCV, TensorFlow-Lite, TensorRT, OpenVINO, GTest, CMake
-- Target: low-latency embedded devices
 
 👉 [View Repository](https://github.com/amirtatari/edge_inference)
 
@@ -43,7 +48,6 @@ Object detection & semantic segmentaion model benchmark application for edge dev
 #### 2. RTSP Player
 Real-Time Streaming Protocl player to test streams from IP cameras. 
 - Stack: C++17/20, Qt, Gstreamer, CMake
-- Target: RTSP streams
 
 👉 [View Repository](https://github.com/amirtatari/RTSP-Player)
 
@@ -53,6 +57,3 @@ Real-Time Streaming Protocl player to test streams from IP cameras.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirtatari&show_icons=true&theme=default)
 
 #
-
-
-
