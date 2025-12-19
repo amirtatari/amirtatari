@@ -71,8 +71,17 @@ Real-time streaming protocol player for testing IP camera streams.
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=amirtatari&show_icons=true&theme=default"
-     width="100%" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=amirtatari&show_icons=true&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=amirtatari&show_icons=true&theme=default"
+    alt="GitHub Stats"
+    width="100%"
+  />
+</picture>
 
 <br/><br/>
 
