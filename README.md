@@ -1,5 +1,5 @@
 
-# Hey there 👋
+# About ME👋
 I am a Software Engineer building high-performance, cross-platform systems.
 I develop and deploy inference pipeline for AI on edge devices, design GUI/HMI applications, and work extensively with embedded Linux. 
 My focus is on:
@@ -23,6 +23,36 @@ My focus is on:
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Emacs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" />       
+
 <br />
 
 #
+
+### 🚀 Featured Projects
+
+#### 1. AI on Edge Model Benchmark
+Object detection & semantic segmentaion model benchmark application for edge devices.
+
+- Stack: C++20, OpenCV, TensorFlow-Lite, TensorRT, OpenVINO, GTest, CMake
+- Target: low-latency embedded devices
+
+👉 [View Repository](https://github.com/amirtatari/edge_inference)
+
+#
+
+#### 2. RTSP Player
+Real-Time Streaming Protocl player to test streams from IP cameras. 
+- Stack: C++17/20, Qt, Gstreamer, CMake
+- Target: RTSP streams
+
+👉 [View Repository](https://github.com/amirtatari/RTSP-Player)
+
+#
+
+### 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirtatari&show_icons=true&theme=default)
+
+#
+
+
+
