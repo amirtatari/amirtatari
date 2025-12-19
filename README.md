@@ -34,26 +34,40 @@ Im interested in:
 
 #
 
-### 🚀 Featured Projects
+## 🚀 Projects & 📊 Stats
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+### Projects
 
 #### 1. AI on Edge Model Benchmark
-Object detection & semantic segmentaion model benchmark application for edge devices.
+Object detection & semantic segmentation benchmark for edge devices.
 
-- Stack: C++20, OpenCV, TensorFlow-Lite, TensorRT, OpenVINO, GTest, CMake
-
+- **Stack:** C++20, OpenCV, TensorFlow Lite, TensorRT, OpenVINO, GTest, CMake  
 👉 [View Repository](https://github.com/amirtatari/edge_inference)
 
-#
+<br/>
 
 #### 2. RTSP Player
-Real-Time Streaming Protocl player to test streams from IP cameras. 
-- Stack: C++17/20, Qt, Gstreamer, CMake
+Real-time streaming protocol player for testing IP camera streams.
 
+- **Stack:** C++17/20, Qt, GStreamer, CMake  
 👉 [View Repository](https://github.com/amirtatari/RTSP-Player)
 
-#
+</td>
 
-### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirtatari&show_icons=true&theme=default)
+<td valign="top" width="45%">
 
-#
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=amirtatari&show_icons=true&theme=default"
+     width="100%" />
+
+<br/><br/>
+
+
+</td>
+</tr>
+</table>
