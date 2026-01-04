@@ -43,15 +43,9 @@ I develop and deploy inference pipeline for AI on edge devices, design GUI/HMI a
 
 #
 
-## 🚀 Projects & 📊 Stats
+## 🚀 Projects
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
-### Projects
-
-#### 1. AI on Edge Model Benchmark
+### 1. AI on Edge Model Benchmark
 Object detection & semantic segmentation benchmark for edge devices.
 
 - **Stack:** C++20, OpenCV, TensorFlow Lite, TensorRT, OpenVINO, GTest, CMake  
@@ -59,33 +53,9 @@ Object detection & semantic segmentation benchmark for edge devices.
 
 <br/>
 
-#### 2. RTSP Player
+### 2. RTSP Player
 Real-time streaming protocol player for testing IP camera streams.
 
 - **Stack:** C++17/20, Qt, GStreamer, CMake  
 👉 [View Repository](https://github.com/amirtatari/RTSP-Player)
 
-</td>
-
-<td valign="top" width="45%">
-
-### GitHub Stats
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=amirtatari&show_icons=true&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=amirtatari&show_icons=true&theme=default"
-    alt="GitHub Stats"
-    width="100%"
-  />
-</picture>
-
-<br/><br/>
-
-
-</td>
-</tr>
-</table>
