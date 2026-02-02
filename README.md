@@ -56,6 +56,6 @@ Object detection & semantic segmentation benchmark for edge devices.
 ### 2. RTSP Player
 Real-time streaming protocol player for testing IP camera streams.
 
-- **Stack:** C++17/20, Qt, GStreamer, CMake  
+- **Stack:** C++20, Qt, GStreamer, CMake  
 👉 [View Repository](https://github.com/amirtatari/RTSP-Player)
 
